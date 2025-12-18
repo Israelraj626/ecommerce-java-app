@@ -47,6 +47,7 @@
     <!-- ✅ MySQL (NO version needed) -->
     <dependency>
       <groupId>mysql</groupId>
+      <version>8.0.33</version>
       <artifactId>mysql-connector-j</artifactId>
       <scope>runtime</scope>
     </dependency>
